@@ -1,4 +1,4 @@
-Tutorial 7: REST API with Database
+# Tutorial 7: REST API with Database
 
 * *Date Created*: 24 Mar 2024
 * *Last Modification Date*: 25 Mar 2024
